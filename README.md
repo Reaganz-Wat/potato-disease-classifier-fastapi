@@ -1,3 +1,2 @@
 # potato-disease-classifier-fastapi
-Potato leaf disease detection using a deep learning model trained in Jupyter Notebook and deployed as a REST API with FastAPI.
-Tensorflow
+This is a potato plant classification using TensorFlow, and backend running on FastAPI, tfserfing
